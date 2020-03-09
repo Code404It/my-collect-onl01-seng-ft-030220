@@ -1,4 +1,6 @@
 
-def my_collect(collection) do |lang|
-  lang.upcase
+def my_collect(collection) 
+i = 0
+new_array =[]
+
 end
